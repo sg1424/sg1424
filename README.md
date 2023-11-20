@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sg1424
 - 👀 I’m interested in energy
-- 🌱 I’m currently learning qiskit
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me yplsgt@gmail.com
 
 <!---
